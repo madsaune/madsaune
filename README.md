@@ -2,6 +2,10 @@
 
 I'm an DevOps Engineer from Norway 🇳🇴, spending my days writing code.
 
+[![PowershellGallery](https://shields.io/badge/PowershellGallery-dotpwsh-blue?logo=powershell&style=for-the-badge)](https://www.powershellgallery.com/profiles/dotpwsh)
+[![Twitter](https://shields.io/badge/twitter-dotpwsh-blue?logo=twitter&style=for-the-badge)](https://twitter.com/dotpwsh)
+
+
 You can reach me at [@dotpwsh](https://twitter.com/dotpwsh)
 
 
