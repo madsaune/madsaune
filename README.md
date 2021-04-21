@@ -1,6 +1,6 @@
 ## Hei, I'm Mads 👋
 
-I'm an DevOps Engineer from Norway 🇳🇴, spending my days writing code. I created this site as a personal notebook, but hopefully you will find something interresting too.
+I'm an DevOps Engineer from Norway 🇳🇴, spending my days writing code.
 
 You can reach me at [@dotpwsh](https://twitter.com/dotpwsh)
 
