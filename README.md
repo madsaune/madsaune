@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hei, I'm Mads 👋
+
+I'm an DevOps Engineer from Norway 🇳🇴, spending my days writing code. I created this site as a personal notebook, but hopefully you will find something interresting too.
+
+You can reach me at [@dotpwsh](https://twitter.com/dotpwsh)
+
 
 <!--
 **madsaune/madsaune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
