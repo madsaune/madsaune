@@ -4,7 +4,7 @@ I'm an DevOps Engineer from Norway 🇳🇴, spending my days writing code.
 
 [![PowershellGallery](https://shields.io/badge/PowershellGallery-dotpwsh-blue?logo=powershell&style=for-the-badge)](https://www.powershellgallery.com/profiles/dotpwsh)
 
-You can reach me at [@moiaunedev](https://twitter.com/moiaunedev)
+You can reach me at [@dotpwsh](https://twitter.com/dotpwsh)
 
 
 <!--
