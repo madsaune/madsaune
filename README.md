@@ -1,21 +1,16 @@
 ## Hei, I'm Mads 👋
 
-I'm an DevOps Engineer from Norway 🇳🇴, spending my days writing code.
+I'm an DevOps Engineer from Norway 🇳🇴, spending my days writing code and learning new stuff.
 
 You can reach me at [@dotpwsh](https://twitter.com/dotpwsh)
 
+**Current environment**
 
-<!--
-**madsaune/madsaune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | | |
+| --- | :--- | :--- |
+| 💻 | Operating System | MacOS |
+| 🐚 | Shell | Powershell |
+| 📝 | IDE | Visual Studio Code |
+| 📺 | Terminal | iTerm2 |
+| 🔠 | Languages | Powershell, Go, Javascript, HTML, CSS |
+| 🧰 | Tools | bash, git, github, azure, terraform |
