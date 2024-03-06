@@ -9,8 +9,7 @@ You can reach me at [@dotpwsh](https://twitter.com/dotpwsh)
 | | | |
 | --- | :--- | :--- |
 | 💻 | Operating System | MacOS |
-| 🐚 | Shell | Powershell |
-| 📝 | IDE | Visual Studio Code |
-| 📺 | Terminal | iTerm2 |
-| 🔠 | Languages | Powershell, Go, Javascript, HTML, CSS |
-| 🧰 | Tools | bash, git, github, azure, terraform |
+| 🐚 | Shell | bash |
+| 📝 | IDE | Neovim |
+| 📺 | Terminal | Alacritty |
+| 🔠 | Languages | Powershell, Go, Javascript, Python |
