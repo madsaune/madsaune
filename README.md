@@ -6,7 +6,6 @@ You can reach me at [@dotpwsh](https://twitter.com/dotpwsh)
 
 **Current environment**
 
-| | | |
 | --- | :--- | :--- |
 | 💻 | Operating System | MacOS |
 | 🐚 | Shell | bash |
